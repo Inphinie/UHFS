@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://img.shields.io/badge/Standard-UHFS_V2-purple?style=for-the-badge&logo=hard-drive" alt="Standard">
   <img src="https://img.shields.io/badge/Physics-Zero--Copy-green?style=for-the-badge&logo=speedtest" alt="Physics">
@@ -64,3 +65,28 @@ struct Universal_Atom_496 {
     root_geo_hash: u128,     // Ancrage Spatial (Axiome Beta)
     payload: [u8; 38],       // Contenu (Segment Majeur)
 }
+
+```
+
+---
+
+## 🚀 Performance Comparée
+
+| Métrique | EXT4 / NTFS (Classique) | UHFS (Holographique) |
+| --- | --- | --- |
+| **Accès** |  (Arbre-B) | ** (Hash Géométrique)** |
+| **Chargement** | Copie + Parsing | **Mapping Direct** |
+| **Fragmentation** | Élevée (Disque dur) | **Nulle (Spirale continue)** |
+| **Sécurité** | ACLs (Permissions) | **Intégrité Mathématique ()** |
+
+---
+
+## 📚 Documentation
+
+* **[Tape Axioms](https://www.google.com/search?q=./tape_axioms.md)** : Les lois fondamentales.
+* **[Formulas](https://www.google.com/search?q=./FORMULAS.md)** : Les équations de la spirale.
+* **[Oracle Simulation](https://www.google.com/search?q=./oracle_machine.py)** : Le code de la machine de lecture.
+
+> *"Nous ne stockons pas des fichiers. Nous gravons des mémoires."*
+
+```
